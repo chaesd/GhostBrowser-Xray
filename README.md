@@ -3,7 +3,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://image.t20.de5.net/img/1765800444498_yubyiddvink.png" />   
 </div>
 
-# Run and deploy your 
+# Run and deploy 
 
 This contains everything you need to run your app locally.
 
