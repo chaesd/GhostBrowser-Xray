@@ -4,13 +4,23 @@
 </div>
 
 中英文对照 — 在本地运行并部署你的应用
+
 中文
+
 前提条件：安装 Node.js
+
 安装依赖：npm install
+
 在 .env.local 文件中设置 GEMINI_API_KEY 为你的 Gemini API 密钥
+
 运行应用：npm run dev
+
 English
+
 Prerequisites: Install Node.js
+
 Install dependencies: npm install
+
 Set GEMINI_API_KEY in .env.local to your Gemini API key
+
 Run the app: npm run dev
