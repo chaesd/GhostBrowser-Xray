@@ -3,17 +3,14 @@
 <img width="1200" height="475" alt="GHBanner" src="https://image.t20.de5.net/img/1765800444498_yubyiddvink.png" />   
 </div>
 
-# Run and deploy 
-
-This contains everything you need to run your app locally.
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+中英文对照 — 在本地运行并部署你的应用
+中文
+前提条件：安装 Node.js
+安装依赖：npm install
+在 .env.local 文件中设置 GEMINI_API_KEY 为你的 Gemini API 密钥
+运行应用：npm run dev
+English
+Prerequisites: Install Node.js
+Install dependencies: npm install
+Set GEMINI_API_KEY in .env.local to your Gemini API key
+Run the app: npm run dev
