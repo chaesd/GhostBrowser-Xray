@@ -15,12 +15,3 @@
 
 — 运行应用：npm run dev
 
-— English
-
-— Prerequisites: Install Node.js
-
-— Install dependencies: npm install
-
-— Set GEMINI_API_KEY in .env.local to your Gemini API key
-
-— Run the app: npm run dev
